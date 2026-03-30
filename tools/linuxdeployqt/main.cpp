@@ -219,7 +219,7 @@ int main(int argc, char **argv)
             qInfo() << "This is so that the resulting bundle will work on most still-supported Linux distributions.";
             qInfo() << "For more information, please see";
             qInfo() << "https://github.com/probonopd/linuxdeployqt/issues/340";
-            return 1;
+//            return 1;
         }
     }
 
